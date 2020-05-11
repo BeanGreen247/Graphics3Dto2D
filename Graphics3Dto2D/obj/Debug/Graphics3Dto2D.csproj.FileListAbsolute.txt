@@ -1,0 +1,10 @@
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe.config
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.pdb
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csprojAssemblyReference.cache
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.Properties.Resources.resources
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csproj.GenerateResource.cache
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.exe
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.pdb
+C:\Users\Tomáš Mozdřeň\source\repos\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.Form1.resources
